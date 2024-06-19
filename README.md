@@ -47,41 +47,5 @@ npm start
 
 Open your browser and go to `http://localhost:8080/listings` to view the application.
 
-## Folder Structure
-majorproject/ <br>
-│<br>
-├── init/<br>
-│   ├── data.js<br>
-│   └── index.js<br>
-│
-├── models/<br>
-│   └── listing.js<br>
-│
-├── node_modules/<br>
-│<br>   
-│<br>
-├── public/<br>
-│   ├── css/<br>
-│       ├── style.css<br>
-│            <br>
-│
-├── views/<br>
-│    ├── include/<br>
-│        ├── footer.ejs<br>
-│        └── navbar.ejs  <br>
-│    ├── layouts/<br>
-│        └── boilerplate.ejs  <br>
-│    ├── include/<br>
-│        ├── edit.ejs<br>
-│        ├── index.ejs<br>
-│        ├── new.ejs<br>
-│        └── show.ejs   <br>  
-│
-├── app.js<br>
-├── package.json<br>
-├── package-lock.json<br>
-└── README.md<br>
-
-
 
 
