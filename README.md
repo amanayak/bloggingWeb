@@ -2,14 +2,6 @@
 
 Welcome to the Blogging Website repository! This project is a fully functional blogging platform built using Node.js, Express.js, and EJS templating. It allows users to create, edit, delete, and view blog posts. Below, you'll find detailed instructions on how to set up and run the project locally.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -89,21 +81,7 @@ majorproject/
 ├── package.json
 ├── package-lock.json
 └── README.md
-```
-
-- `public/`: Contains static files like CSS, JavaScript, and images.
-- `include/`: Contains route files for different parts of the application.
-- `views/`: Contains EJS templates for rendering dynamic content.
-- `app.js`: Main application file.
 
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
