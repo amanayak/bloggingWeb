@@ -48,39 +48,39 @@ npm start
 Open your browser and go to `http://localhost:8080/listings` to view the application.
 
 ## Folder Structure
-majorproject/
-│
-├── init/
-│   ├── data.js
-│   └── index.js
-│
-├── models/
-│   └── listing.js
-│
-├── node_modules/
-│   
-│
-├── public/
-│   ├── css/
-│       ├── style.css
-│            
-│
-├── views/
-│    ├── include/
-│        ├── footer.ejs
-│        └── navbar.ejs  
-│    ├── layouts/
-│        └── boilerplate.ejs  
-│    ├── include/
-│        ├── edit.ejs
-│        ├── index.ejs
-│        ├── new.ejs
-│        └── show.ejs     
-│
-├── app.js
-├── package.json
-├── package-lock.json
-└── README.md
+majorproject/ <br>
+│<br>
+├── init/<br>
+│   ├── data.js<br>
+│   └── index.js<br>
+│<br>
+├── models/<br>
+│   └── listing.js<br>
+│<br>
+├── node_modules/<br>
+│<br>   
+│<br>
+├── public/<br>
+│   ├── css/<br>
+│       ├── style.css<br>
+│            <br>
+│<br>
+├── views/<br>
+│    ├── include/<br>
+│        ├── footer.ejs<br>
+│        └── navbar.ejs  <br>
+│    ├── layouts/<br>
+│        └── boilerplate.ejs  <br>
+│    ├── include/<br>
+│        ├── edit.ejs<br>
+│        ├── index.ejs<br>
+│        ├── new.ejs<br>
+│        └── show.ejs   <br>  
+│<br>
+├── app.js<br>
+├── package.json<br>
+├── package-lock.json<br>
+└── README.md<br>
 
 
 
