@@ -53,10 +53,10 @@ majorproject/ <br>
 ├── init/<br>
 │   ├── data.js<br>
 │   └── index.js<br>
-│<br>
+│
 ├── models/<br>
 │   └── listing.js<br>
-│<br>
+│
 ├── node_modules/<br>
 │<br>   
 │<br>
@@ -64,7 +64,7 @@ majorproject/ <br>
 │   ├── css/<br>
 │       ├── style.css<br>
 │            <br>
-│<br>
+│
 ├── views/<br>
 │    ├── include/<br>
 │        ├── footer.ejs<br>
@@ -76,7 +76,7 @@ majorproject/ <br>
 │        ├── index.ejs<br>
 │        ├── new.ejs<br>
 │        └── show.ejs   <br>  
-│<br>
+│
 ├── app.js<br>
 ├── package.json<br>
 ├── package-lock.json<br>
